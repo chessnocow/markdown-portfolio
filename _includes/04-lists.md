@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+The things I love:
+* lists
+* learning smth new
+  * Python
+  * GitHub
+    * this course 
+      * this task
